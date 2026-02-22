@@ -1,0 +1,42 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / output
+/dist/
+/out-tsc/
+/coverage/
+build/
+tmp/
+temp/
+
+# Angular
+/.angular
+/.angular/cache
+
+# Environment
+.env
+.env.*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Misc
+.sass-cache/
+.cache/
+.eslintcache
+libpeerconnection.log
